@@ -1,4 +1,4 @@
-#!/bin/python2.7
+#!/bin/python3
 
 # Neste programa vamos executar alguns métodos de string
 
