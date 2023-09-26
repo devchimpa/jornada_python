@@ -9,5 +9,5 @@ frase_codificada = base64.b64encode(frase.encode("utf-8"))
 frase_nova=str(frase_codificada)
 
 letras=(len(frase_codificada))
-print("Esta senha codificada fica: ", frase_nova[2:14:])
+print("Esta senha codificada fica: ", frase_nova[2::])
 
